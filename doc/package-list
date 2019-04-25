@@ -1,0 +1,4 @@
+com.hcn
+com.hcn.thrift.client
+com.hcn.thrift.server
+com.hcn.thrift.server.impl
